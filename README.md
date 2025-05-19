@@ -15,7 +15,6 @@
 
 ### 🚧 Em andamento
 - `Bunny-Whatsapp-Bot` — meu projeto principal no momento
-- Explorando formas de baixar live da Bigo automaticamente
 
 ### 📫 Contato
 [Instagram](https://www.instagram.com/mancenilheira/profilecard/?igsh=MThqY3N2dHNsZmh2aw==)
