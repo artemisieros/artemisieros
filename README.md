@@ -1,4 +1,4 @@
-# 🧪 fkyouo aka artemisieros
+# Artemisieros
 
 > Não tive grana pra pagar academia e esquecer a ex, então criei um bot e tô me virando com código.
 
@@ -18,7 +18,7 @@
 - Explorando formas de baixar live da Bigo automaticamente
 
 ### 📫 Contato
-[Instagram]([https://www.instagram.com/mancenilheira/profilecard/?igsh=MThqY3N2dHNsZmh2aw==])
+[Instagram](https://www.instagram.com/mancenilheira/profilecard/?igsh=MThqY3N2dHNsZmh2aw==)
 
 ---
 
