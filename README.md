@@ -14,7 +14,8 @@
 - Sistemas aleatórios que surgem no tédio
 
 ### 🚧 Em andamento
-- `Bunny-Whatsapp-Bot` — meu projeto principal no momento
+- `Bunny-Whatsapp-Bot` 
+- `Veritas` 
 
 ### 📫 Contato
 [Instagram](https://www.instagram.com/mancenilheira/profilecard/?igsh=MThqY3N2dHNsZmh2aw==)
