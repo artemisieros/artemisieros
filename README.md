@@ -14,7 +14,7 @@
 
 ### arsenal rápido ⚡
 `node` · `typescript` · `baileys` · `puppeteer` · `prisma` · `docker` · `sqlite`  
-`gemini` · `openai` · `langchain` · `redis` · `cloudflare workers` · `python` · `javascript`
+`gemini` · `openai` · `langchain` · `redis` · `cloudflare workers` · `python` · `javascript` .
 `flutter` . `html/css` 
 
 ### projetos em órbita 🚀
