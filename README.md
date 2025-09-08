@@ -18,8 +18,8 @@
 `flutter` . `html/css` 
 
 ### projetos em órbita 🚀
-- **[Bunny-Whatsapp-Bot](https://github.com/Artemisieros/Bunny-Whatsapp-Bot)** — bot que conversa melhor que eu com pessoas reais
-- **[Veritas](https://github.com/Artemisieros/Veritas)** — quando a verdade dói, pelo menos automatizo a dor
+- **[Bunny-Whatsapp-Bot](https://github.com/Artemisieros/Bunny-Whatsapp-Bot)** 
+- **[Veritas](https://github.com/Artemisieros/Veritas)**
 
 ### stats (pq todo dev precisa de validação) 📊
 <p align="center">
