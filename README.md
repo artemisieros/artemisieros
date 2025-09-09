@@ -19,7 +19,7 @@
 
 ### projetos em órbita 🚀
 - **[Boz](https://github.com/artemisieros/metis)** 
-- **[Veritas](https://github.com/Artemisieros/Veritas)**(não disponivel)
+- **[Veritas](https://github.com/Artemisieros/Veritas)** (não disponivel)
 
 ### stats (pq todo dev precisa de validação) 📊
 <p align="center">
